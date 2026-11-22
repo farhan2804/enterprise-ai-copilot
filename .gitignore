@@ -27,3 +27,8 @@ target/
 *.log
 .DS_Store
 Thumbs.db
+# Python environments
+.python-version
+
+# Test artifacts
+htmlcov/
